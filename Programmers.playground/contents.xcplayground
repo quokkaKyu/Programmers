@@ -2,6 +2,7 @@
 <playground version='6.0' target-platform='ios' display-mode='rendered' buildActiveScheme='true' importAppTypes='true'>
     <pages>
         <page name='Contents'/>
-        <page name='최댓값과 최솟값'/>
+        <page name='2단계'/>
+        <page name='Reference'/>
     </pages>
 </playground>
