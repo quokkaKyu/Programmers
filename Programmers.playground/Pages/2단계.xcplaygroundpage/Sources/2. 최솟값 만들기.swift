@@ -1,6 +1,6 @@
 import Foundation
 
-public func solution4(_ A:[Int], _ B:[Int]) -> Int
+public func solution2(_ A:[Int], _ B:[Int]) -> Int
 {
     let a = A.sorted(by: >)
     let b = B.sorted(by: <)
