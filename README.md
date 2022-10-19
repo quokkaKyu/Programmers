@@ -25,6 +25,7 @@
  2. [최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941) &nbsp; 2022/10/18
  3. [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951) &nbsp; 2022/10/18
  4. [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909) &nbsp; 2022/10/18
+ 5. [피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945) &nbsp; 2022/10/19
  ---
  ### 3단계
   
