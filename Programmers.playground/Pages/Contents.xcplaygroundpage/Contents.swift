@@ -30,6 +30,8 @@
  5. [피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945) &nbsp; 2022/10/19
  6. [다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911) &nbsp; 2022/10/19
  7. [우박수열 정적분](https://school.programmers.co.kr/learn/courses/30/lessons/134239) &nbsp; 2022/11/4
+ 8. [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) &nbsp; 2022/11/4
+ 
  ---
  ### 3단계
   
