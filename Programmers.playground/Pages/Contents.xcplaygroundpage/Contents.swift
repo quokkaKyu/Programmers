@@ -29,9 +29,9 @@
  4. [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909) &nbsp; 2022/10/18
  5. [피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945) &nbsp; 2022/10/19
  6. [다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911) &nbsp; 2022/10/19
- 7. [우박수열 정적분](https://school.programmers.co.kr/learn/courses/30/lessons/134239) &nbsp; 2022/11/4
- 8. [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) &nbsp; 2022/11/4
- 
+ 7. [우박수열 정적분](https://school.programmers.co.kr/learn/courses/30/lessons/134239) &nbsp; 2022/11/7
+ 8. [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) &nbsp; 2022/11/7
+ 9. [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973) &nbsp; 2022/11/8
  ---
  ### 3단계
   
