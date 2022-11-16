@@ -30,6 +30,7 @@
  7. [우박수열 정적분](https://school.programmers.co.kr/learn/courses/30/lessons/134239) &nbsp; 2022/11/7
  8. [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) &nbsp; 2022/11/7
  9. [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973) &nbsp; 2022/11/8
+ 10. [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981) &nbsp; 2022/11/8
  ---
  ### 3단계
   
