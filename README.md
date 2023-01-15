@@ -18,6 +18,7 @@
  10. [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981) &nbsp; 2022/11/16
  11. [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985) &nbsp; 2023/01/11
  12. [점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980) &nbsp; 2023/01/11
+ 13. [멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914) &nbsp; 2023/01/16
  
  ---
  ### 3단계
