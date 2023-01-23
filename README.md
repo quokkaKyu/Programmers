@@ -20,6 +20,7 @@
  12. [점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980) &nbsp; 2023/01/11
  13. [멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914) &nbsp; 2023/01/16
  14. [[1차] 캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680) &nbsp; 2023/01/17
+ 15. [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747) &nbsp; 2023/01/23
  
  ---
  ### 3단계
