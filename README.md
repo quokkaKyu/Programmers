@@ -3,6 +3,7 @@
 
  ### 1단계
  1. [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705) &nbsp; 2022/01/12
+ 2. [추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963) &nbsp; 2023/04/05
 
  ---
  ### 2단계
