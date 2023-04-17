@@ -7,6 +7,7 @@
  3. [크기가 작은 부분문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355) &nbsp; 2022/04/05
  4. [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267) &nbsp; 2022/04/15
  5. [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240) &nbsp; 2022/04/16
+ 6. [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086) &nbsp; 2022/04/18
 
  ---
  ### 2단계
