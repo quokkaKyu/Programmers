@@ -29,7 +29,7 @@
  16. [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476) &nbsp; 2023/04/18
  17. [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) &nbsp; 2024/05/07
  18. [뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677) &nbsp; 2024/05/12
- 
+ 19. [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578) &nbsp; 2024/05/19 
  ---
  ### 3단계
  1. [이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628) &nbsp; 2024/05/12
